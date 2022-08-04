@@ -12,4 +12,7 @@ open class LogService {
     public func logDemo() {
         print("KhanhPD2 Hello")
     }
+    public func logName() {
+        print("Phan Duy Khanh")
+    }
 }
