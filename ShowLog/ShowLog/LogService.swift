@@ -15,4 +15,7 @@ open class LogService {
     public func logName() {
         print("Phan Duy Khanh")
     }
+    public func logAcc() {
+        print("Khanhpd123")
+    }
 }
